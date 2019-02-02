@@ -1,7 +1,7 @@
 ---
 title: "如何使用资源组中现有虚拟机资源重建 Azure 资源管理器（ARM）虚拟机"
 description: "如何使用资源组中现有虚拟机资源重建 Azure 资源管理器（ARM）虚拟机"
-author: Jiabao Sun
+author: bobsun0917
 resourceTags: 'Virtual Machines, Rebuild'
 ms.service: virtual-machines
 wacn.topic: aog

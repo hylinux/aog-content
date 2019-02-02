@@ -1,12 +1,12 @@
 ---
 title: "针对资源运行状况中记录的意外事件制定报警"
 description: "针对资源运行状况中记录的意外事件制定报警"
-author: Jiabao Sun
+author: bobsun0917
 resourceTags: 'Automation, Alert, Unexpected Events'
 ms.service: automation
 wacn.topic: aog
 ms.topic: article
-ms.author: Jiabao Sun
+ms.author: Jiabao.Sun
 ms.date: 01/21/2019
 wacn.date: 01/21/2019
 ---

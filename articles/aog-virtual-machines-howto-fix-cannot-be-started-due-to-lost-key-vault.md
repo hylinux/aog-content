@@ -1,12 +1,12 @@
 ---
 title: "如何修复因密钥保管库丢失而造成的虚拟机无法启动故障"
 description: "如何修复因密钥保管库丢失而造成的虚拟机无法启动故障"
-author: Jiabao Sun
+author: bobsun0917
 resourceTags: 'Virtual Machines, Key Vault'
 ms.service: virtual-machines
 wacn.topic: aog
 ms.topic: article
-ms.author: Jiabao Sun
+ms.author: Jiabao.Sun
 ms.date: 01/28/2019
 wacn.date: 01/28/2019
 ---
