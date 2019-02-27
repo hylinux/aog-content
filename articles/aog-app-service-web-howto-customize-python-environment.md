@@ -72,3 +72,7 @@ wacn.date: 01/21/2019
     </configuration>
 
 9. 配置完以上步骤以后保存，然后在门户上重启站点进行验证。
+
+
+另外可以参考如下的链接： https://blogs.msdn.microsoft.com/pythonengineering/2016/08/04/upgrading-python-on-azure-app-service/
+
